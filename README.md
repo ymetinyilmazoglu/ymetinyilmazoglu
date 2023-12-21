@@ -9,4 +9,6 @@
     * **_Other_**: Git, Microsoft Excel, Jira
 
 - 📫 How to reach me yavuzmetinyilmazoglu@gmail.com
+
+  
 ![Uploading configuration.png…]()
