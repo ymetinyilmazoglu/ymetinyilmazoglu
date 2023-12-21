@@ -10,5 +10,5 @@
 
 - 📫 How to reach me yavuzmetinyilmazoglu@gmail.com
 
-  
-![Uploading configuration.png…]()
+
+![configuration](https://github.com/ymetinyilmazoglu/ymetinyilmazoglu/assets/136450475/05ac13e0-e9b0-4f59-a2ba-2c05661a03e6)
