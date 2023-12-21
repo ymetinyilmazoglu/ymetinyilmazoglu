@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Metin,Engineer from Turkey.
 - 🎓 Bachelor of Engineering(BE) in Industrial Engineering
-- 🧑 I am an engineer who has 1 year of experience in the industry and loves the data field.
+- 🧑 I am an engineer who has 1 year of experience in the industry and loves the data field. ![Data_engineer](https://github.com/ymetinyilmazoglu/ymetinyilmazoglu/assets/136450475/c4fbae8b-8156-4fcf-bda3-7271796cc21e)
 - 🌱 I'm currently trying to learn everything about Data Analytics, Data Science, Data Engineering, but right now I'm mainly focusing on the data engineering side.
 
 - 💪🏽Skilled in the following technical skills:
@@ -11,5 +11,3 @@
 - 📫 How to reach me yavuzmetinyilmazoglu@gmail.com
 
 
-
-![Data_engineer](https://github.com/ymetinyilmazoglu/ymetinyilmazoglu/assets/136450475/c4fbae8b-8156-4fcf-bda3-7271796cc21e)
