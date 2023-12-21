@@ -11,4 +11,5 @@
 - 📫 How to reach me yavuzmetinyilmazoglu@gmail.com
 
 
-![configuration](https://github.com/ymetinyilmazoglu/ymetinyilmazoglu/assets/136450475/05ac13e0-e9b0-4f59-a2ba-2c05661a03e6)
+
+![Data_engineer](https://github.com/ymetinyilmazoglu/ymetinyilmazoglu/assets/136450475/c4fbae8b-8156-4fcf-bda3-7271796cc21e)
