@@ -3,7 +3,7 @@
 - 🧑 I am an engineer who has 1 year of experience in the industry and loves the data field. 
 - 🌱 I'm currently trying to learn everything about Data Analytics, Data Science, Data Engineering.
 
-- 💪🏽Skilled in the following technical skills:
+- 💪🏽 Skilled in the following technical skills:
     * **_Programming Language_**: Python (pandas, numpy, matplotlib, seaborn, plotly, streamlit, scikit-learn)
     * **_Database_**: Microsoft SQL Server
     * **_Other_**: Git, Microsoft Excel, Jira
