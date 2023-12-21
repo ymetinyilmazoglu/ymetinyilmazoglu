@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @ymetinyilmazoglu
-- 👨🏽‍💻 I’m currently working on A101 Yeni Mağazacılık A.Ş.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-ymetinyilmazoglu/ymetinyilmazoglu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I’m Metin,Engineer from Turkey.
+- 🎓 Bachelor of Engineering(BE) in Industrial Engineering
+- 🧑 I am an engineer who has 1 year of experience in the industry and loves the data field.
+- 🌱 I'm currently trying to learn everything about Data Analytics, Data Science, Data Engineering, but right now I'm mainly focusing on the data engineering side.
+
+- 💪🏽Skilled in the following technical skills:
+    * **_Programming Language_**: Python (pandas, numpy, matplotlib, seaborn, plotly, streamlit, scikit-learn, beautifulsoup, requests)
+    * **_Database_**: Microsoft SQL Server
+    * **_Other_**: Git, Microsoft Excel, Jira
+
+- 📫 How to reach me yavuzmetinyilmazoglu@gmail.com
