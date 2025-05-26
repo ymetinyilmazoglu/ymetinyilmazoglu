@@ -4,7 +4,7 @@
 - 🌱 I'm currently trying to learn everything about Data Analytics.
 
 - 💪🏽 Skilled in the following technical skills:
-    * **_Programming Language_**: Python (pandas, numpy, matplotlib, seaborn, plotly, streamlit, scikit-learn)
+    * **_Programming Language_**: Python (pandas, numpy, matplotlib, seaborn, plotly, streamlit, scikit-learn),Looker
     * **_Database_**: Microsoft SQL Server
     * **_Other_**: Git, Microsoft Excel, Jira
  
