@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Metin,Engineer from Turkey.
 - 🎓 Bachelor of Engineering(BE) in Industrial Engineering. 
-- 🧑 I am an engineer who has 1 year of experience in the industry and loves the data field. 
-- 🌱 I'm currently trying to learn everything about Data Analytics, Data Science, Data Engineering.
+- 🧑 I am an engineer who has 2 year of experience in the industry and loves the data field. 
+- 🌱 I'm currently trying to learn everything about Data Analytics.
 
 - 💪🏽 Skilled in the following technical skills:
     * **_Programming Language_**: Python (pandas, numpy, matplotlib, seaborn, plotly, streamlit, scikit-learn)
