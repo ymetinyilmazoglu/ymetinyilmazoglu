@@ -1,4 +1,6 @@
 # 👋 Hi there! I’m Metin — Data Analyst | BI & Analytics
+
+
 - 🎓 Industrial Engineering graduate from Yıldız Technical University.
 - 📊 I work as a Data Analyst, supporting business and marketing teams through data analysis, dashboard development, and insight generation.
 I transform raw data into clear, actionable insights that help teams make faster, data-driven decisions.
